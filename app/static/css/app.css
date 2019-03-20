@@ -5,3 +5,9 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+ul {
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+}
