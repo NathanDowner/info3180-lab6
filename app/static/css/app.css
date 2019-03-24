@@ -6,8 +6,16 @@ footer  {
     padding-top: 20px;
 }
 
-ul {
-    display: flex;
-    grid-template-columns: 1fr 1fr 1fr;
+li {
+    list-style-type: none;
     
+}
+
+.card {
+    margin-bottom: 1.5em;
+    border-top: 4px  solid rgb(20, 138, 71);
+}
+
+.card-subtitle {
+    margin-top: 1em;
 }
